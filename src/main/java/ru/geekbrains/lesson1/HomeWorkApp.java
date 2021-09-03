@@ -16,7 +16,7 @@ public class HomeWorkApp {
         scanner.close();
     }
     public static void printThreeWords() {
-        System.out.println(" Orange\n Banana\n Apple");
+        System.out.println("Orange\nBanana\nApple");
     }
     public static void checkSumSign() {
         System.out.println("Введите целое число a:");
